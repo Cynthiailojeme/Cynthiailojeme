@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my space! My name is Cynthia Ilojeme. I am an innovative frontend engineer with 3 years experience in building solutions through code. My techstack include the following: JavaScript(ReactJS, Vue), Typescript, GraphQL, CSS3, SASS and HTML.
+Welcome to my space! My name is Cynthia Ilojeme. I am an innovative frontend engineer with close to 4 years experience in building solutions through code. My techstack include the following: JavaScript(ReactJS, Vue), Typescript, GraphQL, CSS3, SASS and HTML.
 
 - 🔭 I’m currently working on a project for a New York based company; Kafene using Vue 3
 - 🌱 I’m currently learning GraphQl
