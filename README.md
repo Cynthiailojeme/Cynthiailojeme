@@ -8,4 +8,4 @@ Welcome to my space! My name is Cynthia Ilojeme. I am an innovative frontend eng
 - 💬 Ask me about anything tech
 - 📫 How to reach me: [email me!](mailto:cynthiaezinne1@gmail.com)
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love cooking and playing with my puppy, Coco:dog: in my free time
+- ⚡ Fun fact: I love cooking and playing with my puppy, Coco :dog: in my free time
